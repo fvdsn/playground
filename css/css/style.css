@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+body{
+  margin:0;
+  padding:0;
+  font-family: 'Arvo',Helvetica, Arial, Sans;
+
+}
+.examples{
+  margin:0px;
+  padding:0px;
+}
+.examples li{
+  padding:80px;
+}
+.examples li h1{
+  padding:0px;
+  margin:0px;
+  font-size: 100px;
+  font-weight: normal;
+}
+.b{
+  background-color: #D9E3F8;
+  color: white;
+  text-shadow: 1px 1px 0px #B3BCD1,
+               2px 2px 0px #B3BCD1,
+               3px 3px 0px #B3BCD1,
+               4px 4px 0px #B3BCD1,
+               5px 5px 0px #B3BCD1,
+               6px 6px 0px #B3BCD1,
+               7px 7px 10px rgba(13, 16, 56, 0.6);
+}
+.c{
+  background-color: #6B6B6B;
+  color: white;
+  text-shadow: 1px 1px 0px #BDBDBD,
+               2px 2px 0px #BDBDBD,
+               3px 3px 0px #BDBDBD,
+               4px 4px 0px #BDBDBD,
+               5px 5px 0px #BDBDBD,
+               6px 6px 0px #BDBDBD,
+               7px 7px 10px rgba(49, 49, 49, 0.59);
+}
+.e{
+  background-color: white;
+  color: rgba(255, 61, 0, 0.5);
+  text-shadow: 8px 7px 0px rgba(0, 82, 255, 0.5),
+              -8px 7px 0px rgba(214, 255, 0, 0.5);
+}
+
+.f{
+  background-color: #eafbff;
+  color: #00a3ff;
+  font-family:'Museo-500';
+  text-shadow: 0px 1px 0px #41879C, 
+               0px 12px 27px rgba(3, 66, 102, 0.41);
+}
+.g{
+  background-color: #82D4E4;
+  color: #fff500;
+  text-shadow: 0px 1px 0px #FFF8AB, 
+               0px 6px 0px #F5CE00, 
+               0px 6px 10px #E79503;
+}
+.h{
+  background-color: white;
+  color: #636363;
+  text-shadow: 1px 1px 1px #414141, 
+              -10px 10px 16px rgba(0, 0, 0, 0.24),
+               10px 10px 4px  rgba(0, 0, 0, 0.15);
+}
+.i{
+  background-color: #09C4FA;
+  color: #fff300;
+  font-family:'Museo-700';
+  text-shadow: 0px 1px 0px #afdb00, 
+               0px 2px 0px #afdb00, 
+               0px 3px 0px #afdb00, 
+               0px 4px 0px #afdb00, 
+               0px 5px 0px #afdb00, 
+               0px 6px 0px #afdb00,
+               0px 6px 10px #439900;
+}
+
+
